@@ -1,1 +1,1 @@
-### SpringCloud配置实战
+### SpringCloud配置
